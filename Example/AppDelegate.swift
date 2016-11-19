@@ -13,6 +13,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
     
+    var list: Int
     var oka04: Int
 
 
